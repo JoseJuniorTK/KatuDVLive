@@ -28,7 +28,7 @@ SECRET_KEY = 'oi4pu76***y&lp=o@!u@xae!ter3l)=uhhzx6s724ftz#^dk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['katudvprot1.herokuapp.com/']
+ALLOWED_HOSTS = ['https://katudvprot1.herokuapp.com/']
 
 
 # Application definition
